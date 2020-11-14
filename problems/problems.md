@@ -39,3 +39,8 @@ Output: 1
 _Implemented in the following languages_
 
 **Python**
+
+[Someancho][#anchor]
+
+
+hello(#anchor)

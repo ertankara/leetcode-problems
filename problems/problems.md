@@ -2,25 +2,37 @@
 
 All the problems explain in plain English
 
-## Pow(x, n) (medium)
+**Easy**
+- [strStr() _easy_](#strStr)
+
+**Medium**
+- [Pow(x, n) _medium_](#pow)
+- [Search Insert Position _medium_](#search-insert-position)
+
+**Hard**
+
+
+## <a name="pow">Pow(x, n) (medium)</a>
 
 Implement pow(x, n) which calculates x raised to the power of n (i.e x^n)
 
+----
 _Implemented in the following languages_
 
-**Python**
+**Python3**
 
 
-## strStr() (easy)
+## <a name="strStr">strStr() (easy)</a>
 
 return the index of the first occurrence of needle in haystack or -1
 if needle is not part of the haystack
 
+----
 _Implemented in the following languages_
 
-**Python**
+**Python3**
 
-## Search Insert Position (easy)
+## <a name="search-insert-position">Search Insert Position (medium)</a>
 
 Given a sorted array of distinct integers and a target value, return the index
 if the target is found. If not, return the index where it would be if it were
@@ -36,11 +48,7 @@ Example 2:
 Input nums = [1,3,5,6], target = 2
 Output: 1
 
+----
 _Implemented in the following languages_
 
-**Python**
-
-[Someancho][#anchor]
-
-
-hello(#anchor)
+**Python3**

@@ -3,6 +3,7 @@ from math import pow
 
 class Solution():
     def myPow(_, x: float, n: int) -> float:
+        '''Raises x to the nth power'''
         return pow(x, n)
 
 

@@ -19,7 +19,7 @@ Implement pow(x, n) which calculates x raised to the power of n (i.e x^n)
 ----
 _Implemented in the following languages_
 
-**Python3**
+- **Python3**
 
 
 ## <a name="strStr">strStr() (easy)</a>
@@ -27,10 +27,20 @@ _Implemented in the following languages_
 return the index of the first occurrence of needle in haystack or -1
 if needle is not part of the haystack
 
+Example 1:
+
+Input: haystack = "hello", needle = "ll"
+Output: 2
+
+Example 2:
+
+Input: haystack = "aaaaa", needle = "bba"
+Output: -1
+
 ----
 _Implemented in the following languages_
 
-**Python3**
+- **Python3**
 
 ## <a name="search-insert-position">Search Insert Position (medium)</a>
 
@@ -51,4 +61,4 @@ Output: 1
 ----
 _Implemented in the following languages_
 
-**Python3**
+- **Python3**
